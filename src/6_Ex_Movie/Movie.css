@@ -1,0 +1,8 @@
+.movie-wrapper {
+	min-height: 100vh;
+	background-image: url("/public/img/avanger.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+}
+
